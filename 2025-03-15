@@ -1,0 +1,41 @@
+Many forks in the road.
+
+Ideas, I currently find engaging:
+
+- query LLM apis to rank comments on topics for forums to see the meta stats of a forum and gauge the crowd opinion
+
+- scrape sec.gov into a database to answer questions like:
+  "how many actions against this person are being pursued by the SEC?"
+  "how many actions against this person have ever been pursued?"
+  "how many actions 'failed'?"
+  "how many actions 'succeeded'?"
+
+- build a transaction table where you can see the previous owners of a valuable item
+
+- build a website to view transaction table and to transact high end items
+
+- rewrite sorting algorithms and compare their performance
+
+- rewrite database so that I have control over the software
+
+
+How should I rank these in order of importance?
+
+Some things are dependencies.
+
+Can this be put into structured form?
+
+Why do I find database still relevant?
+
+Database is a formal way to preserve information. The structure keeps things organized and accessible. 
+You would not use an LLM to preserve information, the weights are ever changing, the models continue to
+grow.
+
+Are religions still relevant?
+
+Is the bible still relevant?
+
+Should I talk about this physical world in this repo on GitHub?
+
+To protect my privacy?
+
