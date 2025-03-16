@@ -1,0 +1,15 @@
+- structured api outputs from grok and openai
+  - should probably take a look at anthropic or perplexity
+
+- if there are api outputs that are structured then what databases can you populate?
+  - some super abstract one?
+  - mathematics database
+  - a way to learn quickly, some kind of flash card ranking system
+  - code quality database?
+  - when open ai asks you to compare two different responses, is it stored locally for your preferences? how is the broader system architected.
+  - question database
+  - music ranking database
+  - movie ranking database
+  - basketball player database
+  - art database
+  - what is the broader abstraction?
